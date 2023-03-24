@@ -16,11 +16,11 @@ function createData(
 }
 
 const rows = [
-  createData('NAME', "R.P.S", 4500),
-  createData('NAME', "R.P.S", 4300),
-  createData('NAME', "HANGMAN", 4100),
-  createData('NAME', "R.P.S", 3900),
-  createData('NAME', "R.P.S", 3900),
+  createData('CHRIS', "R.P.S", 4500),
+  createData('CHANTAL', "R.P.S", 4300),
+  createData('CHINEDU', "HANGMAN", 4100),
+  createData('CHINEDU', "R.P.S", 3900),
+  createData('CHRIS', "R.P.S", 3900),
   
 ];
 
